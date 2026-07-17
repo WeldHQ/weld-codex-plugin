@@ -1,0 +1,15 @@
+{
+  "servers": {
+    "weld_prod": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://connect.weld.app/mcp",
+        "--transport",
+        "streamable-http"
+      ]
+    }
+  }
+}

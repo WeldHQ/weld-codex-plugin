@@ -1,0 +1,29 @@
+{
+  "name": "weld-mcp",
+  "version": "1.0.0",
+  "description": "Fast, reliable data for agents",
+  "repository": "https://github.com/WeldHQ/weld-mcp.git",
+  "license": "MIT",
+  "keywords": ["productivity", "workflow", "weld", "mcp", "codex", "ai", "automation"],
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Weld",
+    "shortDescription": "Deliver fresh, reliable data to your AI agents, analytics, and operational tools with fully autonomous ETL pipelines.",
+    "longDescription": "Extended description for the marketplace.",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://weld.app/",
+    "defaultPrompt": [
+        "Check the status of my ELT syncs and flag any that are failing or haven't run recently",
+        "Trigger a full refresh on the [stream name] stream and let me know when it's done",
+        "Show me all my active data sources and which ones are currently syncing",
+        "Set up a new ELT sync from [source] to my warehouse, running daily",
+        "Run my [orchestration name] orchestration now and report back the result",
+        "Give me a summary of my last 10 sync runs, including any errors"
+        ],
+    "brandColor": "#10A37F",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
+    "screenshots": ["./assets/screenshot-1.png"]
+  }
+}
