@@ -2,7 +2,7 @@
   "name": "weld-mcp",
   "version": "1.0.0",
   "description": "Fast, reliable data for agents",
-  "repository": "https://github.com/WeldHQ/weld-mcp-plugin",
+  "repository": "https://github.com/WeldHQ/weld-codex-plugin",
   "keywords": ["productivity", "workflow", "weld", "mcp", "ai", "automation", "etl", "reverse etl", "data", "sync"],
   "mcpServers": "./.mcp.json",
   "interface": {
