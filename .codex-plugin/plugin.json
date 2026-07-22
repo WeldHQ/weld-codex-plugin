@@ -19,6 +19,6 @@
         "Run my [orchestration name] orchestration now and report back the result",
         "Give me a summary of my last 10 sync runs, including any errors"
         ],
-    "logo": "./assets/weld-icon.png"
+    "logo": "./assets/weld-icon.svg"
   }
 }
