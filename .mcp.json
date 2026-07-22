@@ -1,6 +1,6 @@
 {
   "servers": {
-    "weld_prod": {
+    "weld": {
       "type": "stdio",
       "command": "npx",
       "args": [
