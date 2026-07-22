@@ -8,7 +8,7 @@
   "interface": {
     "displayName": "Weld",
     "shortDescription": "Deliver fresh, reliable data to your AI agents, analytics, and operational tools with fully autonomous ETL pipelines.",
-    "category": "Productivity, Data & Analytics, Business & Operations",
+    "category": "Productivity",
     "capabilities": ["Read", "Write"],
     "websiteURL": "https://weld.app/",
     "defaultPrompt": [
